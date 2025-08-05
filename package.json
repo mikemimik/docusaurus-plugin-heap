@@ -1,0 +1,20 @@
+{
+  "name": "docusaurus-plugin-heap",
+  "version": "0.0.0",
+  "description": "Docusaurus plugin for adding heap tracking to a docusaurus instance.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mikemimik/docusaurus-plugin-heap.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "GPL-3.0",
+  "bugs": {
+    "url": "https://github.com/mikemimik/docusaurus-plugin-heap/issues"
+  },
+  "homepage": "https://github.com/mikemimik/docusaurus-plugin-heap#readme"
+}
