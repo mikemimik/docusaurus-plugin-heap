@@ -3,6 +3,9 @@
   "version": "0.0.0",
   "description": "Docusaurus plugin for adding heap tracking to a docusaurus instance.",
   "main": "index.js",
+  "engines": {
+    "node": ">=20"
+  },
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
